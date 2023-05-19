@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Web-Personal-Portfoio/static/css/main.0e105cb5.css",
+    "main.js": "/Web-Personal-Portfoio/static/js/main.d9a417af.js",
+    "static/media/port.png": "/Web-Personal-Portfoio/static/media/port.5a7b6122f0016ef68ecd.png",
+    "static/media/cv.png": "/Web-Personal-Portfoio/static/media/cv.91ba454685017fa02e7a.png",
+    "static/media/me-about.jpg": "/Web-Personal-Portfoio/static/media/me-about.129c3393e7e68d337504.jpg",
+    "static/media/MOTENE JO- RESUME.pdf": "/Web-Personal-Portfoio/static/media/MOTENE JO- RESUME.4cdd74754fb390606c7e.pdf",
+    "static/media/me.jpg": "/Web-Personal-Portfoio/static/media/me.590b91c7d359099bf6e7.jpg",
+    "static/media/test2.jpg": "/Web-Personal-Portfoio/static/media/test2.608fb0ebcd5739582cd5.jpg",
+    "static/media/test1.jpg": "/Web-Personal-Portfoio/static/media/test1.4274fef11242755a66f3.jpg",
+    "static/media/snake.png": "/Web-Personal-Portfoio/static/media/snake.abfc1ac0d0e4e4127a43.png",
+    "static/media/brick.png": "/Web-Personal-Portfoio/static/media/brick.dc569e098e4fd128513b.png",
+    "index.html": "/Web-Personal-Portfoio/index.html",
+    "main.0e105cb5.css.map": "/Web-Personal-Portfoio/static/css/main.0e105cb5.css.map",
+    "main.d9a417af.js.map": "/Web-Personal-Portfoio/static/js/main.d9a417af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e105cb5.css",
+    "static/js/main.d9a417af.js"
+  ]
+}
